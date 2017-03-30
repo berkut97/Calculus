@@ -1,5 +1,7 @@
 package main;
 
-public class FormManager {
-
-}
+public interface FormManager {
+	  void toggleForms();
+	  void toggleForms1();
+	  void toggleForms2();
+	}
